@@ -1,0 +1,14 @@
+"Subject_ID","Diagnosis","AD_likeness_prob"
+"MO10","PCOS",0.212
+"MO11","PCOS",0.773
+"MO12","PCOS",0.447
+"MO13","PCOS",0.901
+"MO23","PCOS",0.998
+"MO24","PCOS",0.991
+"MO32","Normal",0.885
+"MO33","Normal",0.988
+"MO34","Normal",0.989
+"MO35","Normal",0.996
+"MO36","Normal",0.926
+"MO38","Normal",0.318
+"MO9","PCOS",0.711

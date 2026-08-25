@@ -1,0 +1,9 @@
+"Sample","Diagnosis","AD_likeness_prob"
+"Control_N1","Control",1
+"Control_N2","Control",0.999
+"Control_N3","Control",1
+"Control_N4","Control",0.256
+"PCOS_P1","PCOS",0.991
+"PCOS_P2","PCOS",0.983
+"PCOS_P3","PCOS",0.978
+"PCOS_P4","PCOS",0.961

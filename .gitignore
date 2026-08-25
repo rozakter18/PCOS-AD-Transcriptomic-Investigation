@@ -1,0 +1,15 @@
+
+# Large GEO raw / expression files
+GSE33000/GSE33000_raw_data.txt/GSE33000_raw_data.txt
+GSE33000/GSE33000_series_matrix.txt/GSE33000_series_matrix.txt
+
+# Large GSE33000 processed matrices
+GSE33000/output/GSE33000_AD_Control_log2ratio_gene_level_highestvar.csv
+GSE33000/output/GSE33000_AD_Control_log2ratio_probe_level.csv
+GSE33000/output/GSE33000_AD_Control_log2ratio_probe_level_clean.csv
+GSE33000/output/GSE33000_AD_Control_PFC_expression_probe_level.csv
+GSE33000/output/GSE33000_AD_Control_PFC_expression_probe_level_clean.csv
+
+# Large GSE63061 matrices
+GSE63061/GSE63061_normalized.txt
+GSE63061/GSE63061_series_matrix.txt
